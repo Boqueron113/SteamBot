@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════════════════════
-// STEAM DEALS BOT v2 — Discord Slash Commands
+// STEAM DEALS BOT v3 — Discord Slash Commands — rebuild forzado
 // Comandos: /añadir /misteam /listar /buscar /ofertas /gratis
 // ═══════════════════════════════════════════════════════════════════════════
 
